@@ -2,6 +2,7 @@
 
 Readme  de exemplo
 
+lembrei do comando: git commit
 
 comandos que foram usados:
 git init
