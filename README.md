@@ -2,6 +2,8 @@
 
 Readme  de exemplo
 
+"lembrei do comando: git status
+
 
 comandos que foram usados:
 git init
