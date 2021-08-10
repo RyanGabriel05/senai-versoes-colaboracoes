@@ -3,6 +3,9 @@
 Readme  de exemplo
 
 lembrei do comando: git commit
+lembrei do comando: git status
+
+>>>>>>> tarefa/minha-primeira-branch
 
 comandos que foram usados:
 git init
